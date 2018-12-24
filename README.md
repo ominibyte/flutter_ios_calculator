@@ -4,12 +4,12 @@ iOS 10 and iOS 11&#x2F;12 style calculators for Flutter. Works on Android and iO
 
 ## Getting Started
 
-![alt text](https://github.com/ominibyte/flutter_ios_calculator/raw/master/screenshots/android_10_style.png "iOS 10 Style Calculator for Android")
-![alt text](https://github.com/ominibyte/flutter_ios_calculator/raw/master/screenshots/iphone_10_style.png "iOS 10 Style Calculator for iPhone")
-![alt text](https://github.com/ominibyte/flutter_ios_calculator/raw/master/screenshots/android_12_style.png "iOS 11/12 Style Calculator for Android")
-![alt text](https://github.com/ominibyte/flutter_ios_calculator/raw/master/screenshots/iphone_12_style.png "iOS 11/12 Style Calculator for iPhone")
+<img src="https://github.com/ominibyte/flutter_ios_calculator/raw/master/screenshots/android_10_style.png" alt="iOS 10 Style Calculator for Android" width="370" />
+<img src="https://github.com/ominibyte/flutter_ios_calculator/raw/master/screenshots/iphone_10_style.png" alt="iOS 10 Style Calculator for iPhone" width="370" />
+<img src="https://github.com/ominibyte/flutter_ios_calculator/raw/master/screenshots/android_12_style.png" alt="iOS 11/12 Style Calculator for Android" width="370" />
+<img src="https://github.com/ominibyte/flutter_ios_calculator/raw/master/screenshots/iphone_12_style.png" alt="iOS 11/12 Style Calculator for iPhone" width="370" />
 
-This was built as a widget that needs to be integrated with other views. You can modify the classes to remove the back button if you want to use for a standalone app
+This was built as a widget that needs to be integrated with other views via navigation. You can modify the classes to remove the back button if you want to use for a standalone app
 
 # Usage
 ```dart

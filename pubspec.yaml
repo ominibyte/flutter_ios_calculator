@@ -2,7 +2,7 @@ name: flutter_ios_calculator
 description: iOS 10 and iOS 11&#x2F;12 style calculators for Flutter
 version: 0.0.1
 author: Richboy David <me@richboy.me>
-homepage:
+homepage: https://github.com/ominibyte/flutter_ios_calculator.git
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
