@@ -1,6 +1,6 @@
 # flutter_ios_calculator
 
-iOS 10 and iOS 11&#x2F;12 style calculators for Flutter. Works on Android and iOS.
+iOS 10 and iOS 11+ style calculators for Flutter. Works on Android and iOS.
 
 ## Screenshots
 
