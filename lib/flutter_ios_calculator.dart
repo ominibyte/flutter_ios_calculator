@@ -1,13 +1,13 @@
 library flutter_ios_calculator;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_ios_calculator/ios10_calculator.dart' as Calculator10;
-import 'package:flutter_ios_calculator/ios12_calculator.dart' as Calculator12;
+import 'ios10_calculator.dart' as Calculator10;
+import 'ios12_calculator.dart' as Calculator12;
 
 class Calculator extends StatelessWidget {
-  final CalculatorType calculatorType;
+  final CalculatorType? calculatorType;
 
-  const Calculator({Key key, this.calculatorType}) : super(key: key);
+  const Calculator({Key? key, this.calculatorType}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

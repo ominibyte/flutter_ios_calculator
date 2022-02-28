@@ -1,3 +1,4 @@
+import 'package:flutter_ios_calculator/custom_button.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_ios_calculator/flutter_ios_calculator.dart';
@@ -13,7 +14,7 @@ void main() {
       )
     );
 
-    expect(find.byType(FlatButton), findsNWidgets(20));
+    expect(find.byType(CustomButton), findsNWidgets(20));
     expect(find.byType(AutoSizeText), findsOneWidget);
   });
 
@@ -24,7 +25,7 @@ void main() {
         )
     );
 
-    expect(find.byType(FlatButton), findsNWidgets(20));
+    expect(find.byType(CustomButton), findsNWidgets(20));
     expect(find.byType(AutoSizeText), findsOneWidget);
   });
 }

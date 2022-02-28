@@ -1,3 +1,7 @@
+## [0.1.0] - 28/02/2022
+
+* Updating packages for null safety
+
 ## [0.0.2] - 18/04/2020
 
 * Updating packages
